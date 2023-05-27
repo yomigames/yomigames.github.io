@@ -1,0 +1,19 @@
+name: yomigames
+url: http://yomigames.github.io
+root: /
+baseurl: ""
+description: Insert tagline here
+
+permalink: /:title/
+
+plugins: [jekyll-paginate]
+
+highlighter: pygments
+paginate: 20
+
+# markdown: rdiscount
+markdown: kramdown
+rdiscount:
+    extensions: ['smart']
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
