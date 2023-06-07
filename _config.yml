@@ -4,7 +4,7 @@ root: /
 baseurl: ""
 description: Insert tagline here
 
-permalink: /:title/
+permalink: /:title.html
 
 plugins: [jekyll-paginate]
 
