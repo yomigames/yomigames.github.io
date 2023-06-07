@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Terms Of Use
-lang: cn
-linken: ../termsofuse
+lang: en
+linkcn: ../termsofuse_cn
 ---
 
 ## Terms Of Use
