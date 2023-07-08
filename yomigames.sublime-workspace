@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tabl",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PREIV",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"PREVIEW",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 72.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/work/projects/yomigames"
+	],
+	"file_history":
+	[
+		"/C/work/projects/yomigames/yomigames.sublime-project",
+		"/C/work/ikbase/manager/sites/design_sites.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/ui/ugui/16_ugui_recttransform.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/shader/unity_water_wave.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-aso.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-appstore.md",
+		"/C/work/ikbase/tech/web/jekyll.md",
+		"/C/work/ikbase/work/mc/project/mc_project_2023q2.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-tracker-account.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-bugfix.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-rateus_reply.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-operate.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230625.md",
+		"/C/work/ikbase/work/mc/mcm-product/mcpuz2d002-3824/mcpuz2d002-3824.md",
+		"/C/work/ikbase/work/mc/mcm-product/mcdressup002-makeup/mcdressup002-makeup.md",
+		"/C/Users/67052/Downloads/GoogleService-Info (2).plist",
+		"/C/Users/67052/Desktop/temp/exports/3824/mcpuz2d002-3824.md",
+		"/C/work/ikbase/tech/os/ios/iap.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230618.md",
+		"/C/work/ikbase/_todolist/2023q2.todo",
+		"/C/work/ikbase/work/rios/event/2019_rios_event.md",
+		"/C/work/ikbase/_help/syntax.md",
+		"/C/work/ikbase/tech/office_tool/video_download.md",
+		"/C/work/ikbase/tech/os/android/android_anr.md",
+		"/C/work/ikbase/tech/os/android/android_maven.md",
+		"/C/work/ikbase/tech/os/android/android_v-device.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-googleplay-reject-log.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-appstore-reject-log.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230611.md",
+		"/C/Users/67052/Downloads/annie-389601-a1ecf552ef98.json",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230604.md",
+		"/C/work/ikbase/tech/git/git_ssh.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230521.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230528.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/projects/1-ugui_drag.md",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/work/ikbase/_todolist/_now.todo",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230514.md",
+		"/C/work/ikbase/work/rios/project/2021Q3.md",
+		"/C/work/ikbase/tech/os/ios/ios_logcat.md",
+		"/C/work/ikbase/tech/office_tool/browser.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/unity_color_space.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/ui/ugui/11_ugui_Image.md",
+		"/C/work/ikbase/work/rios/project/2023Q1.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230507.md",
+		"/C/work/ikbase/tech/os/windows/keymap.md",
+		"/C/work/ikbase/_help/todo_tutorial.todo",
+		"/C/work/ikbase/tech/game_dev/game_resolution_adaptation.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc017-flappy/mc017_design.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230402.md",
+		"/C/work/ikbase/tech/os/windows/dev.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q1/wr_20230122.md"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yomigames.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"acount",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"partic",
+				"tech\\game_engine\\unity3d\\unity_particle_system.md"
+			],
+			[
+				"rectt",
+				"tech\\game_engine\\unity3d\\ui\\ugui\\16_ugui_recttransform.md"
+			],
+			[
+				"site",
+				"manager\\sites\\design_sites.md"
+			],
+			[
+				"jel",
+				"tech\\web\\jekyll.md"
+			],
+			[
+				"wave",
+				"tech\\game_engine\\unity3d\\shader\\unity_water_wave.md"
+			],
+			[
+				"produc",
+				"work\\mc\\mcm-product\\mc-product-operate.md"
+			],
+			[
+				"makeup",
+				"work\\mc\\mcm-product\\mcdressup002-makeup\\mcdressup002-makeup.md"
+			],
+			[
+				"iap",
+				"tech\\os\\ios\\iap.md"
+			],
+			[
+				"account",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"edi",
+				"tech\\game_engine\\unity3d\\editor.md"
+			],
+			[
+				"hel",
+				"_help\\syntax.md"
+			],
+			[
+				"3824",
+				"work\\mc\\mcm-product\\mcpuz2d002-3824\\mcpuz2d002-3824.md"
+			],
+			[
+				"vidoe",
+				"tech\\office_tool\\video_download.md"
+			],
+			[
+				"android",
+				"tech\\os\\android\\android_anr.md"
+			],
+			[
+				"aacoun",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"and",
+				"tech\\os\\android\\android_v-device.md"
+			],
+			[
+				"ssh",
+				"tech\\git\\git_ssh.md"
+			],
+			[
+				"ugui",
+				"tech\\game_engine\\unity3d\\projects\\1-ugui_drag.md"
+			],
+			[
+				"je",
+				"tech\\web\\jekyll.md"
+			],
+			[
+				"todo",
+				"_todolist\\_now.todo"
+			],
+			[
+				"ioslog",
+				"tech\\os\\ios\\ios_logcat.md"
+			],
+			[
+				"sidete",
+				"manager\\sites\\design_sites.md"
+			],
+			[
+				"recttra",
+				"tech\\game_engine\\unity3d\\ui\\ugui\\16_ugui_recttransform.md"
+			],
+			[
+				"design",
+				"manager\\sites\\design_sites.md"
+			],
+			[
+				"resulo",
+				"tech\\game_dev\\game_resolution_adaptation.md"
+			],
+			[
+				"windows",
+				"tech\\os\\windows\\dev.md"
+			],
+			[
+				"W",
+				"work\\weekly_report\\2023\\2023Q1\\wr_20230122.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
