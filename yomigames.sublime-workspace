@@ -7,6 +7,278 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2023-07-02-sim001.md",
+			"settings":
+			{
+				"buffer_size": 1936,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAABIBAAAAAAAAEgEAAAAAAAABAAAAMA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAQAAAAAAABMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAABIBAAAAAAAAEwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAQAAAAAAABIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAA0EAAAAAAAADgQAAAAAAAAAAAAADgQAAAAAAAAPBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANBAAAAAAAAA0EAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"paste",
+					null,
+					"AQAAAA8EAAAAAAAAcQYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPBAAAAAAAAA8EAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAHEGAAAAAAAAcgYAAAAAAAAAAAAAcgYAAAAAAABzBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxBgAAAAAAAHEGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "sim"
+					},
+					"BAAAAO4EAAAAAAAA7wQAAAAAAAAAAAAA7wQAAAAAAADvBAAAAAAAAAoAAABtY3B1ejJkMDAy7wQAAAAAAADwBAAAAAAAAAAAAADwBAAAAAAAAPEEAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADuBAAAAAAAAPgEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "sim001",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "sim001"
+					},
+					"AgAAAO4EAAAAAAAA7gQAAAAAAAADAAAAc2lt7gQAAAAAAAD0BAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADxBAAAAAAAAPEEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"paste",
+					null,
+					"AgAAAD8FAAAAAAAARQUAAAAAAAAAAAAARQUAAAAAAABFBQAAAAAAAAoAAABtY3B1ejJkMDAy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/BQAAAAAAAEkFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					41,
+					1,
+					"paste",
+					null,
+					"AgAAAI4FAAAAAAAAlAUAAAAAAAAAAAAAlAUAAAAAAACUBQAAAAAAAAoAAABtY3B1ejJkMDAy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACOBQAAAAAAAJgFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AgAAAN0FAAAAAAAA4wUAAAAAAAAAAAAA4wUAAAAAAADjBQAAAAAAAAoAAABtY3B1ejJkMDAy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdBQAAAAAAAOcFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"paste",
+					null,
+					"AgAAACwGAAAAAAAAMgYAAAAAAAAAAAAAMgYAAAAAAAAyBgAAAAAAAAoAAABtY3B1ejJkMDAy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsBgAAAAAAADYGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUEAAAAAAAA9QQAAAAAAAABAAAANQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2BAAAAAAAAPYEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAPUEAAAAAAAA9gQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD1BAAAAAAAAPUEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB8FAAAAAAAAIAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAfBQAAAAAAAB8FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"paste",
+					null,
+					"AQAAACAFAAAAAAAAbgUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgBQAAAAAAACAFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAG4FAAAAAAAAbwUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABuBQAAAAAAAG4FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"paste",
+					null,
+					"AQAAAG8FAAAAAAAAvQUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABvBQAAAAAAAG8FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					74,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEQFAAAAAAAARAUAAAAAAAABAAAAMQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFBQAAAAAAAEUFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAEQFAAAAAAAARQUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEBQAAAAAAAEQFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJMFAAAAAAAAkwUAAAAAAAABAAAAMQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACUBQAAAAAAAJQFAAAAAAAAAAAAAABAckA"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAAJMFAAAAAAAAlAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTBQAAAAAAAJMFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAABgBAAAAAAAALQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AgAAAB0BAAAAAAAAdAEAAAAAAAAAAAAAdAEAAAAAAAB0AQAAAAAAAA8AAABzaW0wMDFfdjFfMS5hcGs",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFEBAAAAAAAAUQEAAAAAAABVAAAA5o+Q5Y+W56CBOiB5b21pIOWkjeWItui/meauteWGheWuueWQjuaJk+W8gOeZvuW6pue9keebmOaJi+acukFwcO+8jOaTjeS9nOabtOaWueS+v+WTplABAAAAAAAAUAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAdAEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgBAAAAAAAACAEAAAAAAAAdAAAAc2ltMDAxX3YxXzEuYXBrCmFwazog6ZO+5o6lOiA",
+					"AQAAAAAAAAABAAAAIQEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"paste",
+					null,
+					"AgAAAAgBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAXAQAAAAAAAC8AAABodHRwczovL3Bhbi5iYWlkdS5jb20vcy8xMU5fdWpScGp2N1J3eTJFd2ZZMzZtQQ",
+					"AQAAAAAAAAABAAAACAEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AgAAAF8CAAAAAAAAbQIAAAAAAAAAAAAAbQIAAAAAAABtAgAAAAAAACYAAAB7eyBzaXRlLmJhc2V1cmwgfX0vYXBrcy97eyBwYWdlLmFwayB9fQ",
+					"AQAAAAAAAAABAAAAXwIAAAAAAACFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AgAAAF8CAAAAAAAAhQIAAAAAAAAAAAAAhQIAAAAAAACFAgAAAAAAAA4AAAB7eyBwYWdlLmFwayB9fQ",
+					"AQAAAAAAAAABAAAAXwIAAAAAAABtAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -84,7 +356,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/work/projects/yomigames"
+		"/C/work/projects/yomigames",
+		"/C/work/projects/yomigames/_layouts",
+		"/C/work/projects/yomigames/_posts"
 	],
 	"file_history":
 	[
@@ -179,6 +453,72 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2023-07-02-sim001.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/sublime-markdown-extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -371,7 +711,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 211.0,
+	"side_bar_width": 284.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
