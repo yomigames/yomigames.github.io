@@ -24,3 +24,7 @@ vendor/bundle/
 Thumbs.db
 .DS_Store
 
+
+
+*.sublime-workspace
+
