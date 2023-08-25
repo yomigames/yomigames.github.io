@@ -1,0 +1,34 @@
+{
+    "MyList": [
+        {
+            "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple116\/v4\/1d\/1b\/19\/1d1b199d-3f9c-7754-5388-cb45bc9db44f\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\/230x0w.webp",
+            "Name": "Home Decor - Design Game",
+            "shortdec": "Experience home decoration and storage",
+            "downloadcount": "100 - 500",
+            "reviewstar": 1,
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6450864914"
+        },
+        {
+            "icon": "http:\/\/yomi.fun\/images\/icons\/puz2d003.png",
+            "Name": "Pinyin Connect - Chinese Learning",
+            "shortdec": "Experience the essence of Chinese character culture",
+            "downloadcount": "1 - 5",
+            "reviewstar": 1,
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6462431763"
+        },
+    ],
+    "0": {
+        "firstName": null,
+        "lastName": null,
+        "email": null,
+        "mobile": null
+    },
+    "1": {
+        "icon": null,
+        "Name": null,
+        "shortdec": null,
+        "downloadcount": null,
+        "reviewstar": null,
+        "downloadurl": null
+    }
+}
