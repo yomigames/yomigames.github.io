@@ -1,34 +1,44 @@
 {
     "MyList": [
         {
-            "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple116\/v4\/1d\/1b\/19\/1d1b199d-3f9c-7754-5388-cb45bc9db44f\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\/230x0w.webp",
-            "Name": "Home Decor - Design Game",
-            "shortdec": "Experience home decoration and storage",
-            "downloadcount": "100 - 500",
+            "appcode": "sim001",
+            "name": "Home Decor - Design Game",
+            "dec": "Experience home decoration and storage",
             "reviewstar": 1,
-            "downloadurl": "https:\/\/apps.apple.com\/app\/6450864914"
+            "iosdownloadurl": "https:\/\/apps.apple.com\/app\/6450864914",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.homedecor"
         },
         {
-            "icon": "http:\/\/yomi.fun\/images\/icons\/puz2d003.png",
-            "Name": "Pinyin Connect - Chinese Learning",
-            "shortdec": "Experience the essence of Chinese character culture",
-            "downloadcount": "1 - 5",
+            "appcode": "puz2d003",
+            "name": "Pinyin Connect - Chinese Learning",
+            "dec": "Experience the essence of Chinese character culture",
             "reviewstar": 1,
-            "downloadurl": "https:\/\/apps.apple.com\/app\/6462431763"
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6462431763",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.hanzi"
+        },
+        {
+            "appcode": "rac001",
+            "name": "Soccer Dribble - Tap Game",
+            "dec": "Fun Soccer dribbling drills",
+            "reviewstar": 1,
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6451482713",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.dribble"
+        },
+        {
+            "appcode": "mcpuz2d002",
+            "name": "3824 - Numbers Game 2048",
+            "dec": "3824 - Calculation training for the classic 2048 number matching game!",
+            "reviewstar": 1,
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6450252442",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.mentalcalculation3824"
+        },
+        {
+            "appcode": "mcdressup002",
+            "name": "FavoriteMakeupShow",
+            "dec": "Makeup games for girls.",
+            "reviewstar": 1,
+            "downloadurl": "https:\/\/apps.apple.com\/app\/6449591316",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.mcdressup002"
         }
-    ],
-    "0": {
-        "firstName": null,
-        "lastName": null,
-        "email": null,
-        "mobile": null
-    },
-    "1": {
-        "icon": null,
-        "Name": null,
-        "shortdec": null,
-        "downloadcount": null,
-        "reviewstar": null,
-        "downloadurl": null
-    }
+    ]
 }
