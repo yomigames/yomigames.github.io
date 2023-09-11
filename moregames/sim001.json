@@ -1,0 +1,36 @@
+{
+    "MyList": [
+        {
+            "appcode": "puz2d003",
+            "name": "Pinyin Connect - Chinese Learning",
+            "dec": "Experience the essence of Chinese character culture",
+            "reviewstar": 5,
+            "iosdownloadurl": "https:\/\/apps.apple.com\/app\/6462431763",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.hanzi"
+        },
+        {
+            "appcode": "rac001",
+            "name": "Soccer Dribble - Tap Game",
+            "dec": "Fun Soccer dribbling drills",
+            "reviewstar": 5,
+            "iosdownloadurl": "https:\/\/apps.apple.com\/app\/6451482713",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.dribble"
+        },
+        {
+            "appcode": "mcpuz2d002",
+            "name": "3824 - Numbers Game 2048",
+            "dec": "3824 - Calculation training for the classic 2048 number matching game!",
+            "reviewstar": 5,
+            "iosdownloadurl": "https:\/\/apps.apple.com\/app\/6450252442",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.mentalcalculation3824"
+        },
+        {
+            "appcode": "mcdressup002",
+            "name": "FavoriteMakeupShow",
+            "dec": "Makeup games for girls.",
+            "reviewstar": 5,
+            "iosdownloadurl": "https:\/\/apps.apple.com\/app\/6449591316",
+            "gpdownloadurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.yomi.mcdressup002"
+        }
+    ]
+}
